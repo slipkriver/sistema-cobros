@@ -1,0 +1,8 @@
+{
+  "name": "sistema-cobros",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "b8388e0b"
+}
